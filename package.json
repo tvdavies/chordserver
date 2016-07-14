@@ -1,0 +1,15 @@
+{
+  "name": "chordserver",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "Tom Davies",
+  "license": "MIT",
+  "dependencies": {
+    "chordprojs": "^0.1.1",
+    "lodash": "^4.13.1",
+    "nodegit": "^0.14.1",
+    "octonode": "^0.7.6",
+    "rimraf": "^2.5.3"
+  }
+}
