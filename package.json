@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "API to retrieve available chord sheets from the repository.",
   "main": "app.js",
+  "scripts" : {
+    "start": "node app.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/tvdavies/chordserver.git"
